@@ -28,7 +28,7 @@ or following the steps below
 
 ## 配置secret
 参考：https://docs.github.com/zh/actions/security-guides/using-secrets-in-github-actions
-
+docker token: https://docs.docker.com/docker-hub/access-tokens/
 
 ## TODO
 优化README.md编写格式
