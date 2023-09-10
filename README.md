@@ -16,6 +16,14 @@ https://github.com/kenzok8/openwrt_Build
 
 https://docs.github.com/zh/actions/using-workflows
 
+## quickstarts
+you can ask chatgpt
+or following the steps below
+1. create gitproject
+2. mkdir -p ./github/workflows
+3. vim ./github/workflows/test.yml 
+4. commit & push
+5. you can see the test.yml workflows in the actions tab page
 
 ## TODO
 优化README.md编写格式

@@ -21,3 +21,15 @@ jobs:
           node-version: '14'
       - run: npm install -g bats
       - run: bats -v
+
+      - name: Hello World
+        run: echo "Hello, World!"
+
+      - name: Print System Info
+        run: |
+          echo "Operating System:"
+          uname -a
+          echo "CPU Info:"
+          lscpu
+          echo "Memory Info:"
+          free -h
