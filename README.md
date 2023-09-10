@@ -16,7 +16,6 @@ https://github.com/kenzok8/openwrt_Build
 https://github.com/esirplayground/AutoBuild-OpenWrt
 
 ## workflow介绍
-
 https://docs.github.com/zh/actions/using-workflows
 
 ## quickstarts
@@ -28,10 +27,18 @@ or following the steps below
 4. commit & push
 5. you can see the test.yml workflows in the actions tab page
 
+## action
+runner-image: https://github.com/actions/runner-images/releases
 
 ## 配置secret
 参考：https://docs.github.com/zh/actions/security-guides/using-secrets-in-github-actions
 docker token: https://docs.docker.com/docker-hub/access-tokens/
+
+## license
+https://docs.github.com/zh/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository
+https://choosealicense.com/
+
+
 
 ## TODO
 优化README.md编写格式

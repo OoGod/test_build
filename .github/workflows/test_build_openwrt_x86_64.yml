@@ -11,8 +11,8 @@ name: Build_x86_64
 # Add a button to trigger the workflow
 on: 
   
-  push:
-    branches: [ main ]
+  #push:
+  #  branches: [ main ]
   
     #repository_dispatch:
   workflow_dispatch:
