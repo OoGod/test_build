@@ -12,6 +12,9 @@ https://github.com/kenzok8/openwrt_Build
 
 示例：https://github.com/OoGod/tools/actions/runs/5699124069/workflow
 
+## openwrt build
+https://github.com/esirplayground/AutoBuild-OpenWrt
+
 ## workflow介绍
 
 https://docs.github.com/zh/actions/using-workflows
