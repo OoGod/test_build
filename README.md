@@ -25,6 +25,11 @@ or following the steps below
 4. commit & push
 5. you can see the test.yml workflows in the actions tab page
 
+
+## 配置secret
+参考：https://docs.github.com/zh/actions/security-guides/using-secrets-in-github-actions
+
+
 ## TODO
 优化README.md编写格式
 
